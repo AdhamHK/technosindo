@@ -9,7 +9,7 @@ sisi user-client(member) :<br/>
 -) Redirect to halaman sukses apabila telah verifikasi dan dapat login kembali <br/>
 -) Add aktifitas user : <br/>
     1.) profil , ubah foto/password dan personal info <br/>
-    2.) order , memesan jasa yang disediakan kami <br/>
+    2.) order , memesan jasa yang disediakan kami/konsultasi keluhan seputar IT <br/>
     3.) status , kondisi jika status diterima maka balasan telah dikirim dari pihak technosindo ke email user tsb <br/>
 
 sisi admin :<br/>
