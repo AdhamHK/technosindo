@@ -2,7 +2,7 @@ fitur dan changelog
 web custom relationship management technosindo
 memberikan jasa pembuatan software meliputi app mobile, logo , web dll
 
-sisi user-client(member) :
+sisi user-client(member) :<br/>
 -add auto reply konfirmasi untuk verifikasi akun pada email tersebut setelah mendaftar
 -redirect to halaman eror apabila belum verifikasi akun
 -add send back email jika auto reply tidak dapat terkirim
