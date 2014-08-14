@@ -10,7 +10,7 @@ sisi user-client(member) :<br/>
 -) Add aktifitas user : <br/>
     1.) profil , ubah foto/password dan personal info <br/>
     2.) order , memesan jasa yang disediakan kami <br/>
-    3.) status , kondisi jika status diterima maka balasan telah dikirim dari pihak techosindo ke email user tsb <br/>
+    3.) status , kondisi jika status diterima maka balasan telah dikirim dari pihak technosindo ke email user tsb <br/>
 
 sisi admin :<br/>
 -) Kelola seluruh tabel baik : create,update,delete <br/> 
