@@ -1,5 +1,5 @@
 Fitur dan Changelog 
-Web custom relationship management technosindo
+Web customer relationship management technosindo
 Memberikan jasa pembuatan software meliputi app mobile, logo , web dll
 
 sisi user-client(member) :<br/>
